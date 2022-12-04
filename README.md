@@ -8,5 +8,5 @@
 * SweetAlert
 
 # ¿Cómo ver la aplicación en vivo?
-* entrando al siguiente link 
+* entrando al siguiente link https://freakworlduy.netlify.app/
 # freakworld
