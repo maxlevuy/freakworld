@@ -22,3 +22,4 @@ Puede ver la versión de producción entrando [aquí](https://viafrance-tienda.n
 1. Clonar repositorio.
 2. En la carpeta raiz del proyecto, ejecutar el comando `npm install` .
 3. En la carpeta raiz del proyecto, ejecutar el comando `npm start`.# freakworld
+# freakworld
